@@ -1,0 +1,24 @@
+{
+  "name": "maiores-questionamentos-da-humanidade",
+  "version": "1.0.2",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "turma 21",
+    "trybe"
+  ],
+  "bin": {
+    "maiores-questionamentos-da-humanidade": "./src/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/robertotcestari/suco-de-laranja/issues"
+  },
+  "homepage": "https://github.com/robertotcestari/suco-de-laranja",
+  "author": "Roberto Cestari",
+  "license": "MIT",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}
