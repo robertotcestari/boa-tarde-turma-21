@@ -1,6 +1,6 @@
 {
-  "name": "maiores-questionamentos-da-humanidade",
-  "version": "1.0.2",
+  "name": "boa-tarde-turma-21",
+  "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
@@ -10,12 +10,12 @@
     "trybe"
   ],
   "bin": {
-    "maiores-questionamentos-da-humanidade": "./src/index.js"
+    "boa-tarde-turma-21": "./src/index.js"
   },
   "bugs": {
-    "url": "https://github.com/robertotcestari/suco-de-laranja/issues"
+    "url": "https://github.com/robertotcestari/boa-tarde-turma-21/issues"
   },
-  "homepage": "https://github.com/robertotcestari/suco-de-laranja",
+  "homepage": "https://github.com/robertotcestari/boa-tarde-turma-21",
   "author": "Roberto Cestari",
   "license": "MIT",
   "dependencies": {
